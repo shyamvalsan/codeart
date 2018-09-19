@@ -1,7 +1,8 @@
 from functools import reduce
+
 _                                 =\
                                 """if!
-                              1:"e,V=100
+                              1:"e,V=150
                             0,(0j-1)**-.2;
                            v,S=.5/  V.real,
                          [(0,0,4      *e,4*e*
