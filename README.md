@@ -1,3 +1,7 @@
+> **📦 Archived — unmaintained.**
+> This repository is kept public for history and is no longer actively developed.
+> Issues and pull requests are closed. Fork it freely if it is useful to you.
+
 # codeart
 Generate art through code
 
